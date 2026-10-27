@@ -1,0 +1,4 @@
+google-genai>=2.33.0
+google-cloud-secret-manager>=2.31.0
+google-cloud-modelarmor>=0.4.0
+google-auth[requests]>=2.40.0
